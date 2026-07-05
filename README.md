@@ -15,3 +15,15 @@ A simple and efficient password manager created in Python, offering both a Graph
 3. Run your preferred version:
    - For CLI: `python main.py`
    - For GUI: `python gui.py`
+
+## Installation
+
+To set up this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Tacsul/Password-Manager
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
